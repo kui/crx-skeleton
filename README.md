@@ -1,8 +1,10 @@
-crx_pack
+crx-skeleton
 ======================================
 
-crx_pac is a skeleton package to build Google Chrome Extentions
-with coffee-script and mocha.
+crx-skeleton is a skeleton package to
+[build Google Chrome Extentions](http://code.google.com/chrome/extensions/index.html)
+with [Coffee Script](http://coffeescript.org/) and
+[Mocha](http://visionmedia.github.com/mocha/).
 
 TODO rewrite the title and the description
 
@@ -15,3 +17,8 @@ In your terminal:
 	npm install coffee-script
 	npm install mocha
 	cake build
+
+TODO
+---------------------------------------
+
+	grep -r TODO <this_dir>
